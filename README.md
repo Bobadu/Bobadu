@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bobadu
-- 🌱 I’m currently learning HTML, CSS, C++, Skript, Lua
+- 🌱 I’m currently learning HTML, CSS, C++, Skript, Lua, Python
 - 📫 How to reach me: Discord: Bo ba du#3088
 
 - 💿 My certifications:
