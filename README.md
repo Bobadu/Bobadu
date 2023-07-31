@@ -8,3 +8,5 @@
 - ✨ Front End Development Libraries Developer Certification - https://www.freecodecamp.org/certification/Bobadu/front-end-development-libraries
 
 - 💙 Old Quasar-Store Supporter
+- 😎 Made by Me:
+- https://novaroleplay.umod.pl/
