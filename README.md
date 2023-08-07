@@ -9,4 +9,4 @@
 
 - 💙 Old Quasar-Store Supporter
 - 😎 Made by Me:
-- https://novaroleplay..pl/
+- https://novaroleplay.pl/
