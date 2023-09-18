@@ -3,6 +3,7 @@
 - 📫 How to reach me: kacperlesniewski165@gmail.com
 
 - 💿 My certifications:
+- 💀 PCAP - Programming Essentials in Python - https://docdro.id/RtJOimn
 - ⚡ Responsive Web Design Developer Certification - https://www.freecodecamp.org/certification/Bobadu/responsive-web-design
 - 🧧 Data Visualization Developer Certification - https://www.freecodecamp.org/certification/Bobadu/data-visualization
 - ✨ Front End Development Libraries Developer Certification - https://www.freecodecamp.org/certification/Bobadu/front-end-development-libraries
