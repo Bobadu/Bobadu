@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bobadu
-- 🌱 I’m currently learning HTML, CSS, C++, Skript, Lua, Python, JS, Osint, Unity, Discord.js, Java
+- 🌱 I’m currently learning HTML, CSS, C++, Skript, Lua, Python, JS, Osint, Unity, Discord.js, Java, PHP, Py-Cord, Discord.py
 - 📫 How to reach me: kacperlesniewski165@gmail.com
 
 - 💿 My certifications:
