@@ -5,6 +5,7 @@
 - 💿 My certifications:
 - 💀 PCAP - Programming Essentials in Python - https://docdro.id/RtJOimn
 - 🔥 CPA - Programming Essentials in C++ - https://docdro.id/ECjzS49
+- 💋 NDG - Linux Essentials Proffesional Development Certificate - https://smallpdf.com/file#s=8a7adbbc-1188-41d5-b6c6-ea68bfb39e8b
 - 🥰 JSE - JavaScript Essentials - https://docdro.id/Sd8TsX0
 - ⚡ Responsive Web Design Developer Certification - https://www.freecodecamp.org/certification/Bobadu/responsive-web-design
 - 🧧 Data Visualization Developer Certification - https://www.freecodecamp.org/certification/Bobadu/data-visualization
