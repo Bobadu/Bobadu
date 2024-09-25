@@ -9,4 +9,5 @@
 - https://fiubiu.pl
 - https://nauczycielka-informatyki.pl
 - https://twojweb.pl
+- https://lkwejpszop.pl
 - https://www.youtube.com/watch?v=VRP6bKYi-VQ
