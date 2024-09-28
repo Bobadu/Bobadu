@@ -3,8 +3,8 @@
 
 - 💙 Old Quasar-Store Supporter
 - ❤️ RillRP Lead Full Stack Developer
-- 🦆 WebNieBoli Lead Front End Developer
-- 😈 Nauczycielka Informatyki Lead Front End Developer
+- 🦆 WebNieBoli Front End Developer
+- 🎨 EduNieBoli Front End Developer
 - 😎 Made by Me:
 - https://fiubiu.pl
 - https://nauczycielka-informatyki.pl
