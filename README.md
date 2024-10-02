@@ -4,7 +4,6 @@
 - 💙 Old Quasar-Store Supporter
 - ❤️ RillRP Lead Full Stack Developer
 - 🦆 WebNieBoli Front End Developer
-- 🎨 EduNieBoli Front End Developer
 - 😎 Made by Me:
 - https://fiubiu.pl
 - https://lkwejpszop.pl
