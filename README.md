@@ -7,7 +7,7 @@
 - 🎨 EduNieBoli Front End Developer
 - 😎 Made by Me:
 - https://fiubiu.pl
-- https://nauczycielka-informatyki.pl
-- https://twojweb.pl
 - https://lkwejpszop.pl
+- https://twojweb.pl
+- https://nauczycielka-informatyki.pl
 - https://www.youtube.com/watch?v=VRP6bKYi-VQ
