@@ -10,4 +10,5 @@
 - https://lkwejpszop.pl
 - https://twojweb.pl
 - https://nauczycielka-informatyki.pl
+- https://edunieboli.pl
 - https://www.youtube.com/watch?v=VRP6bKYi-VQ
