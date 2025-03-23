@@ -2,7 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Bobadu?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/Bobadu?style=for-the-badge)
-![GitHub repos](https://img.shields.io/github/repos/Bobadu?style=for-the-badge)
 
 - 🖥️ **Frontend:** Vue.js, React, Tailwind CSS
 - ⚙️ **Backend:** Node.js
