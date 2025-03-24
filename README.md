@@ -10,7 +10,6 @@
 
 ## 📊 Statystyki
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobadu&show_icons=true&theme=radical)
-![GitHub stars](https://img.shields.io/github/stars/Bobadu?style=for-the-badge)
 
 ## 📫 Kontakt
 🌐 Portfolio: SOON
