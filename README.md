@@ -9,8 +9,8 @@
 - 🎮 **Game Dev:** FiveM 
 
 ## 📊 Statystyki
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobadu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobadu&size_weight=0.5&count_weight=0.5&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobadu&show_icons=true&theme=radical)
 
 ## 📫 Kontakt
 🌐 Portfolio: SOON
