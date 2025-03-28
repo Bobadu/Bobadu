@@ -9,8 +9,14 @@
 - 🎮 **Game Dev:** FiveM 
 
 ## 📊 Statystyki
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobadu&size_weight=0.5&count_weight=0.5&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobadu&show_icons=true&theme=radical)
+- 🔹 **Total repos:** 41
+- 🔹 **Total commits count:** 412
+- 🔹 **Top 5 Languages (lines of code):**
+  - js: 154778 lines of code
+  - lua: 10809 lines of code
+  - css: 4036 lines of code
+  - html: 2403 lines of code
+  - vue: 1599 lines of code
 
 ## 📫 Kontakt
 🌐 Portfolio: SOON
