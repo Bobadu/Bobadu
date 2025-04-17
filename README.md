@@ -6,7 +6,7 @@
 - 🖥️ **Frontend:** Vue.js, React, Tailwind CSS
 - ⚙️ **Backend:** Node.js
 - 🗄️ **Bazy danych:** MariaDB, PostgreSQL
-- 🎮 **Game Dev:** FiveM 
+- 🎮 **Game Dev:** FiveM, Minecraft 
 
 ## 📊 Statystyki
 - 🔹 **Total repos:** 41
