@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Bobadu?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/Bobadu?style=for-the-badge)
 
-- 🖥️ **Frontend:** Vue.js, React, Tailwind CSS
+- 🖥️ **Frontend:** React, Vue.js, Tailwind CSS
 - ⚙️ **Backend:** Node.js
 - 🗄️ **Bazy danych:** MariaDB, PostgreSQL
 - 🎮 **Game Dev:** FiveM, Minecraft 
