@@ -17,7 +17,6 @@
   - kotlin: 7163 lines of code
   - css: 6036 lines of code
   - html: 3403 lines of code
-  - vue: 1599 lines of code
 
 ## 📫 Kontakt
 🌐 Portfolio: SOON
