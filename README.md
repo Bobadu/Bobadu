@@ -9,8 +9,8 @@
 - 🎮 **Game Dev:** FiveM, Minecraft 
 
 ## 📊 Statystyki
-- 🔹 **Total repos:** 46
-- 🔹 **Total commits count:** 452
+- 🔹 **Total repos:** 48
+- 🔹 **Total commits count:** 385
 - 🔹 **Top 5 Languages (lines of code):**
   - js: 154778 lines of code
   - lua: 10809 lines of code
