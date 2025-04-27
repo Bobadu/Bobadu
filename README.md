@@ -1,7 +1,7 @@
 # Welcome to my GitHub
 
-GitHub followers: [Bobadu](https://github.com/Bobadu)  
-GitHub stars: [Bobadu](https://github.com/Bobadu)
+![GitHub followers](https://img.shields.io/github/followers/Bobadu?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Bobadu?style=for-the-badge)
 
 ## Technologies
 - Frontend: React, Vue.js, Tailwind CSS
