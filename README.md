@@ -1,25 +1,26 @@
-# 🌟 Witaj na moim GitHubie!
+# Welcome to my GitHub
 
-![GitHub followers](https://img.shields.io/github/followers/Bobadu?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Bobadu?style=for-the-badge)
+GitHub followers: [Bobadu](https://github.com/Bobadu)  
+GitHub stars: [Bobadu](https://github.com/Bobadu)
 
-- 🖥️ **Frontend:** React, Vue.js, Tailwind CSS
-- ⚙️ **Backend:** Node.js
-- 🗄️ **Bazy danych:** MariaDB, PostgreSQL
-- 🎮 **Game Dev:** FiveM, Minecraft 
+## Technologies
+- Frontend: React, Vue.js, Tailwind CSS
+- Backend: Node.js
+- Databases: MariaDB, PostgreSQL
+- Game Dev: FiveM, Minecraft
 
-## 📊 Statystyki
-- 🔹 **Total repos:** 48
-- 🔹 **Total commits count:** 385
-- 🔹 **Top 5 Languages (lines of code):**
-  - js: 154778 lines of code
-  - lua: 10809 lines of code
-  - kotlin: 7163 lines of code
-  - css: 6036 lines of code
-  - html: 3403 lines of code
+## Stats
+- Total repositories: 49
+- Total commits: 386
+- Top 5 languages (lines of code):
+  - TS/JS: 62,551
+  - Kotlin: 10,790
+  - LUA: 3,177
+  - Python: 321
+  - C#: 273
 
-## 📫 Kontakt
-🌐 Portfolio: SOON
-💬 Discord: `bobadu`  
+## Contact
+- Portfolio: SOON
+- Discord: `bobadu`
 
-Dziękuję za odwiedzenie mojego profilu! ⭐ Jeśli podoba Ci się moja praca, zostaw gwiazdkę w moich repozytoriach! 😊
+Thanks for visiting my profile! If you like my work, feel free to leave a star! ⭐
