@@ -5,7 +5,7 @@
 ### Full-Stack Developer | Performance Enthusiast | Making web go brrr ⚡
 
 [![GitHub followers](https://img.shields.io/github/followers/Bobadu?style=for-the-badge&logo=github&color=FF69B4)](https://github.com/Bobadu)
-[![Discord](https://img.shields.io/badge/Discord-bobadu-FF69B4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-beloved-FF69B4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Poland](https://img.shields.io/badge/🇵🇱_Poland-Based-FF1493?style=for-the-badge)](https://github.com/Bobadu)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=900&lines=building+beautiful+web+experiences+%F0%9F%8C%B8;GSAP+animation+expert+%E2%9C%A8;web+performance+nerd+%F0%9F%9A%80;cat+person+%F0%9F%90%B1%F0%9F%92%96" alt="Typing SVG" />
