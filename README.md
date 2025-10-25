@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Cześć, jestem Bobadu
+# 👋 Hi, I'm Bobadu
 
 ### Full-Stack Developer | Performance Enthusiast | Poland 🇵🇱
 
@@ -11,9 +11,9 @@
 
 ---
 
-## 🚀 O mnie
+## 🚀 About Me
 
-Tworzę **kompleksowe rozwiązania webowe** łączące nowoczesny frontend z wydajnym backendem. Specjalizuję się w budowaniu **interaktywnych, wysokowydajnych aplikacji** z zaawansowanymi animacjami i optymalizacją performance.
+Building **comprehensive web solutions** combining modern frontend with performant backend. Specializing in **interactive, high-performance applications** with advanced animations and performance optimization.
 
 ```javascript
 const bobadu = {
@@ -27,20 +27,20 @@ const bobadu = {
 
 ---
 
-## 💎 Specjalizacja
+## 💎 Expertise
 
 ### Frontend Excellence
-- ⚛️ **React.js & Vue.js** - Zaawansowane komponenty i state management
-- 🎨 **GSAP Animations** - Płynne, profesjonalne animacje i motion design
+- ⚛️ **React.js & Vue.js** - Advanced components and state management
+- 🎨 **GSAP Animations** - Smooth, professional animations and motion design
 - ⚡ **Performance Optimization** - Web Workers, lazy loading, code splitting
 - 🎯 **Tailwind CSS** - Responsive, modern UI/UX
 
 ### Backend & Infrastructure  
-- 🔧 **Node.js** - Skalowalne API i mikrousługi
-- 🗄️ **PostgreSQL & MariaDB** - Zaawansowane zapytania i optymalizacja baz danych
+- 🔧 **Node.js** - Scalable APIs and microservices
+- 🗄️ **PostgreSQL & MariaDB** - Advanced queries and database optimization
 - 🔄 **Real-time Applications** - WebSockets, Server-Sent Events
 
-### Narzędzia & Technologie
+### Tools & Technologies
 - 🎮 **Game Development** - FiveM, Minecraft mods
 - 🧵 **Concurrent Programming** - Web Workers, Service Workers
 - 📦 **Modern Tooling** - Vite, Webpack, Docker
@@ -49,10 +49,10 @@ const bobadu = {
 
 ## 🎯 Currently Working On
 
-- 🚀 High-performance web applications
-- 🎨 Advanced GSAP animations & micro-interactions
-- 🔧 Open source contributions
-- ⚡ Web Workers & performance optimization
+- 📜 **Scroll-based Modern Portfolio** - Interactive showcase with advanced GSAP animations
+- 💼 **Tax Office Management System** - Comprehensive solution for accounting offices
+- 🤖 **AI Phone Assistant** - Smart voice assistant integration
+- 🧘 **Advanced Yoga System for FiveM** - Immersive gameplay mechanics
 
 ---
 
@@ -97,20 +97,7 @@ const bobadu = {
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔐 [Bobadu-Whitelist](https://github.com/Bobadu/Bobadu-Whitelist)
-> Advanced whitelist system with modern architecture
-
-### 🎨 [inZOI Character Creation UI](https://github.com/Bobadu/inZOI_CharacterCreationUI)
-> Interactive character creator with smooth GSAP animations
-
-### 🎮 [PrefixStream-FIVEM](https://github.com/Bobadu/PrefixStream-FIVEM)
-> Automatic prefix management for FiveM servers
-
----
-
-## 💬 Kontakt
+## 💬 Contact
 
 <div align="center">
 
@@ -124,7 +111,7 @@ const bobadu = {
 
 <div align="center">
 
-### 💭 *"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
+### 💭 *"First, solve the problem. Then, write the code."*
 
 **Thanks for visiting! Drop a ⭐ if you like my work!**
 
