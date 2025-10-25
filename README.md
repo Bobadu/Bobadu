@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-bobadu-FF69B4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Poland](https://img.shields.io/badge/🇵🇱_Poland-Based-FF1493?style=for-the-badge)](https://github.com/Bobadu)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=600&lines=Building+beautiful+web+experiences+%F0%9F%8C%B8;GSAP+Animation+Expert+%E2%9C%A8;Web+Performance+Nerd+%F0%9F%9A%80;Cat+Person+%F0%9F%90%B1%F0%9F%92%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=600&lines=building+beautiful+web+experiences+%F0%9F%8C%B8;GSAP+animation+expert+%E2%9C%A8;web+performance+nerd+%F0%9F%9A%80;cat+person+%F0%9F%90%B1%F0%9F%92%96" alt="Typing SVG" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-Building **comprehensive web solutions** combining modern frontend with performant backend. Specializing in **interactive, high-performance applications** with advanced animations and performance optimization.
+building **comprehensive web solutions** combining modern frontend with performant backend. specializing in **interactive, high-performance applications** with advanced animations and performance optimization.
 
 ```javascript
 const bobadu = {
