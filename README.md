@@ -4,13 +4,13 @@
 
 <p>
   <a href="https://github.com/Bobadu">
-    <img src="https://img.shields.io/github/followers/Bobadu?style=for-the-badge&logo=github&color=FF69B4&labelColor=1a1a1a" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Bobadu?style=for-the-badge&logo=github&color=FF69B4&labelColor=1a1a1a" height="28" alt="Followers" />
   </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-_beloved_381-FF69B4?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" alt="Discord" />
+  &nbsp;&nbsp; <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-_beloved_381-FF69B4?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" height="28" alt="Discord" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🇵🇱_Poland-Based-FF1493?style=for-the-badge&labelColor=1a1a1a" alt="Location" />
+  &nbsp;&nbsp; <a href="#">
+    <img src="https://img.shields.io/badge/🇵🇱_Poland-Based-FF1493?style=for-the-badge&labelColor=1a1a1a" height="28" alt="Location" />
   </a>
 </p>
 
@@ -20,16 +20,18 @@
 
 </div>
 
-<table border="0" width="100%">
+<br /> <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="48%" valign="top">
       
 <h3>🚀 About Me</h3>
-<p>Building comprehensive web solutions combining modern frontend with performant backend. Specializing in interactive, high-performance applications.</p>
+<p>
+Building comprehensive web solutions combining modern frontend with performant backend. Specializing in interactive, high-performance applications.
+</p>
 
 <pre>
 const bobadu = {
-  pronouns: "she/her" + " 🐱",
+  pronouns: "she/her 🐱",
   location: "Poland 🇵🇱",
   code: [
     "Web Performance ⚡",
@@ -37,7 +39,7 @@ const bobadu = {
     "GSAP Animations 🌀"
   ],
   challenge: "Making web go brrr",
-  loves: ["Cats 🐱", "Pink 💖", "Clean Code 🌸"]
+  loves: ["Cats 🐱", "Pink 💖"]
 };
 </pre>
 
@@ -46,13 +48,18 @@ const bobadu = {
   <li>📜 <b>Portfolio:</b> Interactive showcase (GSAP)</li>
   <li>💼 <b>Tax System:</b> Accounting solution 📊</li>
   <li>🤖 <b>AI Assistant:</b> Voice integration 🎙️</li>
-  <li>🎮 <b>FiveM Scripts:</b> Advanced Yoga System 🧘</li>
+  <li>🎮 <b>FiveM Scripts:</b> Yoga System 🧘</li>
 </ul>
 
-</td>
-<td width="40%" valign="top" align="center">
+    </td>
+    
+    <td width="4%"></td>
 
+    <td width="48%" valign="top">
+
+<div align="center">
 <h3>🐱 My Contribution Grid</h3>
+
 <a href="https://github.com/Bobadu/Bobadu/actions/workflows/snake.yml">
   <img src="https://raw.githubusercontent.com/Bobadu/Bobadu/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </a>
@@ -61,15 +68,18 @@ const bobadu = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=Bobadu&show_icons=true&theme=buefy&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFB6C1&count_private=true" width="100%" />
 
-</td>
-</tr>
+</div>
+    </td>
+  </tr>
 </table>
+
+<br/>
 
 <h3>💅 Tech Stack & Arsenal</h3>
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="5">
     <tr>
-      <td align="center" width="120"><b>Frontend</b></td>
+      <td align="center" width="100"><b>Frontend</b></td>
       <td>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
@@ -93,17 +103,20 @@ const bobadu = {
   </table>
 </div>
 
+<br/><br/>
+
 <div align="center">
-<br/>
 
 <h3>🏆 Trophies & Streaks</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bobadu&theme=buefy&no-frame=true&no-bg=true&margin-w=15&margin-h=15" width="800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bobadu&theme=buefy&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1" width="100%" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Bobadu&theme=buefy&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Bobadu&theme=buefy&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1" alt="GitHub Streak" width="60%" />
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!%20🐱💖&fontSize=25&fontColor=FF69B4&animation=twinkling" width="100%" />
 
