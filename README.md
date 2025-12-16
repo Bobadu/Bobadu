@@ -55,9 +55,7 @@ const bobadu = {
   <li>🎮 <b>FiveM Scripts:</b> Yoga System 🧘</li>
 </ul>
 
-    </td>
-    
-    <td width="4%"></td>
+    </td> <td width="4%"></td>
 
     <td width="48%" valign="top">
 
@@ -73,8 +71,7 @@ const bobadu = {
 <img src="https://github-readme-stats.vercel.app/api?username=Bobadu&show_icons=true&theme=buefy&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFB6C1&count_private=true&layout=compact" width="100%" alt="Bobadu's GitHub Stats" />
 
 </div>
-    </td>
-  </tr>
+    </td> </tr>
 </table>
 
 <br/>
@@ -98,7 +95,7 @@ const bobadu = {
 
 <h3>🏆 Trophies & Streaks</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bobadu&theme=buefy&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bobadu&theme=buefy&no-frame=true&no-bg=true&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
 </a>
 
 <br/><br/>
