@@ -4,13 +4,15 @@
 
 <p>
   <a href="https://github.com/Bobadu">
-    <img src="https://img.shields.io/github/followers/Bobadu?style=for-the-badge&logo=github&color=FF69B4&labelColor=1a1a1a" height="28" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Bobadu?style=for-the-badge&logo=github&color=FF69B4&labelColor=1a1a1a" height="30" alt="Followers" />
   </a>
-  &nbsp;&nbsp; <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-_beloved_381-FF69B4?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" height="28" alt="Discord" />
+  &nbsp;&nbsp;
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-_beloved_381-FF69B4?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" height="30" alt="Discord" />
   </a>
-  &nbsp;&nbsp; <a href="#">
-    <img src="https://img.shields.io/badge/🇵🇱_Poland-Based-FF1493?style=for-the-badge&labelColor=1a1a1a" height="28" alt="Location" />
+  &nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/🇵🇱_Poland-Based-FF1493?style=for-the-badge&labelColor=1a1a1a" height="30" alt="Location" />
   </a>
 </p>
 
@@ -20,7 +22,9 @@
 
 </div>
 
-<br /> <table border="0" width="100%" cellspacing="0" cellpadding="0">
+<br />
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="48%" valign="top">
       
@@ -66,7 +70,7 @@ const bobadu = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bobadu&show_icons=true&theme=buefy&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFB6C1&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bobadu&show_icons=true&theme=buefy&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFB6C1&count_private=true&layout=compact" width="100%" alt="Bobadu's GitHub Stats" />
 
 </div>
     </td>
@@ -77,30 +81,15 @@ const bobadu = {
 
 <h3>💅 Tech Stack & Arsenal</h3>
 <div align="center">
-  <table border="0" cellspacing="5">
-    <tr>
-      <td align="center" width="100"><b>Frontend</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-        <img src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>Backend</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>Tools</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="35" alt="React" />
+  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" height="35" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35" alt="Tailwind CSS" />
+  <br/>
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35" alt="Node.js" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="35" alt="Python" />
+  <br/>
+  <img src="https://img.shields.io/badge/git-%23E44C30.svg?style=for-the-badge&logo=git&logoColor=white" height="35" alt="Git" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="35" alt="Figma" />
 </div>
 
 <br/><br/>
@@ -109,7 +98,7 @@ const bobadu = {
 
 <h3>🏆 Trophies & Streaks</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bobadu&theme=buefy&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bobadu&theme=buefy&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1" width="100%" alt="Trophies" />
 </a>
 
 <br/><br/>
@@ -118,6 +107,6 @@ const bobadu = {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!%20🐱💖&fontSize=25&fontColor=FF69B4&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!%20🐱💖&fontSize=25&fontColor=FF69B4&animation=twinkling" width="100%" alt="Footer" />
 
 </div>
