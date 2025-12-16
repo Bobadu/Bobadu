@@ -1,137 +1,23 @@
-<div align="center">
-
-# 👋 Hi, I'm Bobadu 🐱💖
-
-### Full-Stack Developer | Performance Enthusiast | Making web go brrr ⚡
-
-[![GitHub followers](https://img.shields.io/github/followers/Bobadu?style=for-the-badge&logo=github&color=FF69B4)](https://github.com/Bobadu)
-[![Discord](https://img.shields.io/badge/Discord-_beloved_381-FF69B4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Poland](https://img.shields.io/badge/🇵🇱_Poland-Based-FF1493?style=for-the-badge)](https://github.com/Bobadu)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=900&lines=building+beautiful+web+experiences+%F0%9F%8C%B8;GSAP+animation+expert+%E2%9C%A8;web+performance+nerd+%F0%9F%9A%80;cat+person+%F0%9F%90%B1%F0%9F%92%96" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-building **comprehensive web solutions** combining modern frontend with performant backend. specializing in **interactive, high-performance applications** with advanced animations and performance optimization.
-
-```javascript
-const bobadu = {
+<div align="center"><!-- ANIMOWANY NAGŁÓWEK TYPU WAVE --><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0,2,30%26height%3D280%26section%3Dheader%26text%3DHi,%2520I%27m%2520Bobadu%2520🐱💖&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Making%20web%20go%20brrr%20⚡&descSize=20&descAlignY=65" width="100%" /><!-- BADGE SPOŁECZNOŚCIOWE --><p><a href="https://github.com/Bobadu"><img src="https://www.google.com/search?q=https://img.shields.io/github/followers/Bobadu%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26color%3DFF69B4%26labelColor%3D1a1a1a" /></a><a href="https://discord.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-_beloved_381-FF69B4%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite%26labelColor%3D1a1a1a" /></a><a href="#"><img src="https://img.shields.io/badge/🇵🇱_Poland-Based-FF1493?style=for-the-badge&labelColor=1a1a1a" /></a></p><!-- TYPING SVG --><a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26duration%3D3000%26pause%3D1000%26color%3DFF69B4%26center%3Dtrue%26vCenter%3Dtrue%26repeat%3Dtrue%26width%3D900%26lines%3Dbuilding%2Bbeautiful%2Bweb%2Bexperiences%2B%25F0%259F%258C%25B8%3BGSAP%2Banimation%2Bexpert%2B%25E2%259C%25A8%3Bweb%2Bperformance%2Bnerd%2B%25F0%259F%259A%2580%3Bcat%2Bperson%2B%25F0%259F%2590%25B1%25F0%259F%2592%2596" alt="Typing SVG" /></a></div><!-- GŁÓWNA SEKCJA Z TABELĄ DLA LEPSZEGO UKŁADU --><!-- Tabela pozwala położyć kod po lewej, a 3D/Statystyki po prawej --><table border="0" width="100%"><tr><td width="60%" valign="top">🚀 About MeBuilding comprehensive web solutions combining modern frontend with performant backend. Specializing in interactive, high-performance applications.const bobadu = {
   pronouns: "she/her" + " 🐱",
   location: "Poland 🇵🇱",
-  focus: ["Web Performance", "Interactive UI", "GSAP Animations"],
-  currently: "Building fast, beautiful web experiences ✨",
-  vibe: "Making web go brrr ⚡",
-  loves: ["Cats 🐱", "Pink 💖", "Clean Code 🌸", "Fast Websites 🚀"]
+  code: [
+    "Web Performance ⚡",
+    "Interactive UI ✨",
+    "GSAP Animations 🌀"
+  ],
+  challenge: "Making web go brrr",
+  loves: ["Cats 🐱", "Pink 💖", "Clean Code 🌸"]
 };
-```
+🌸 Currently Working On📜 Portfolio: Interactive showcase (GSAP)💼 Tax System: Accounting solution 📊🤖 AI Assistant: Voice integration 🎙️🎮 FiveM Scripts: Advanced Yoga System 🧘</td><td width="40%" valign="top" align="center"><!-- TUTAJ JEST MAGIA 3D -->
+<!-- To zadziała dopiero jak dodasz plik workflow (snake.yml) -->
+<h3>🐱 My Contribution Grid 3D</h3>
+<a href="https://github.com/Bobadu/Bobadu/actions/workflows/snake.yml">
+  <img src="https://github.com/Bobadu/Bobadu/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</a>
 
----
+<br/><br/>
 
-## 💖 Expertise
-
-### 🌸 Frontend Magic
-- ⚛️ **React.js & Vue.js** - Advanced components and state management
-- ✨ **GSAP Animations** - Smooth, professional animations and motion design
-- ⚡ **Performance Optimization** - Web Workers, lazy loading, code splitting
-- 💅 **Tailwind CSS** - Responsive, modern UI/UX
-
-### 🚀 Backend Power  
-- 🔧 **Node.js** - Scalable APIs and microservices
-- 🗄️ **PostgreSQL & MariaDB** - Advanced queries and database optimization
-- 🔄 **Real-time Applications** - WebSockets, Server-Sent Events
-
-### 🎮 Other Cool Stuff
-- 🕹️ **Game Development** - FiveM, Minecraft mods
-- 🧵 **Concurrent Programming** - Web Workers, Service Workers
-- 📦 **Modern Tooling** - Vite, Webpack, Docker
-
----
-
-## 🌸 Currently Working On
-
-- 📜 **Scroll-based Modern Portfolio** - Interactive showcase with advanced GSAP animations ✨
-- 💼 **Tax Office Management System** - Comprehensive solution for accounting offices 📊
-- 🤖 **AI Phone Assistant** - Smart voice assistant integration 🎙️
-- 🧘 **Advanced Yoga System for FiveM** - Immersive gameplay mechanics 🎮
-
----
-
-## 💅 Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-FF1493?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-FF1493?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-FF69B4?style=for-the-badge&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-FF1493?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Styling & Animation ✨
-![TailwindCSS](https://img.shields.io/badge/Tailwind-FF69B4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-FF1493?style=for-the-badge&logo=greensock&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases & Tools 🗄️
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF1493?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-FF69B4?style=for-the-badge&logo=mariadb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white)
-
-### Game Dev 🎮
-![Lua](https://img.shields.io/badge/Lua-FF69B4?style=for-the-badge&logo=lua&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-FF1493?style=for-the-badge&logo=kotlin&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats 🐱
-
-<div align="center">
-
-![Bobadu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bobadu&show_icons=true&theme=buefy&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFB6C1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobadu&layout=compact&theme=buefy&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFB6C1)
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Bobadu&theme=buefy&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 💬 Contact 🌸
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-bobadu-FF69B4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Email](https://img.shields.io/badge/Email-Contact-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dziewczynafoxi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Bobadu-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bobadu)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"First, solve the problem. Then, write the code."* 🐱✨
-
-**Thanks for visiting! Drop a ⭐ if you like my work!** 💖
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bobadu&color=FF69B4&style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=See%20you%20later!%20🐱💖&fontSize=30&fontColor=FF69B4&animation=twinkling" />
-
-</div>
-
----
-
-<div align="center">
-  
-**Currently**: 🔨 Building awesome web experiences | ⚡ Optimizing everything | 🎮 Making cool stuff | 💖 Loving cats
-
-</div>
-
+<!-- STATYSTYKI -->
+<img src="https://github-readme-stats.vercel.app/api?username=Bobadu&show_icons=true&theme=buefy&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFB6C1&count_private=true" width="100%" />
+</td></tr></table>💅 Tech Stack & Arsenal<div align="center">CategoryTechnologiesFrontendBackendLanguagesTools</div><div align="center">🏆 Trophies & Streaks<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DBobadu%26theme%3Dbuefy%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D15%26margin-h%3D15" width="800" /></a><img src="https://github-readme-streak-stats.herokuapp.com?user=Bobadu&theme=buefy&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1" alt="GitHub Streak" /><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D12%26height%3D100%26section%3Dfooter%26text%3DThanks%2520for%2520visiting!%2520🐱💖&fontSize=25&fontColor=FF69B4&animation=twinkling" width="100%" /></div>
