@@ -1,271 +1,110 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=280&section=header&text=Hi,%20I'm%20Bobadu%20🐱💖&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Making%20web%20go%20brrr%20⚡&descSize=20&descAlignY=65" width="100%" alt="Header" />
 
+<p>
+  <a href="https://github.com/Bobadu">
+    <img src="https://img.shields.io/github/followers/Bobadu?style=for-the-badge&logo=github&color=FF69B4&labelColor=1a1a1a" alt="Followers" />
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-_beloved_381-FF69B4?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" alt="Discord" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/🇵🇱_Poland-Based-FF1493?style=for-the-badge&labelColor=1a1a1a" alt="Location" />
+  </a>
+</p>
 
-# 👋 Hi, I'm Bobadu 🐱💖
-
-
-
-### Full-Stack Developer | Performance Enthusiast | Making web go brrr ⚡
-
-
-
-[![GitHub followers](https://img.shields.io/github/followers/Bobadu?style=for-the-badge&logo=github&color=FF69B4)](https://github.com/Bobadu)
-
-[![Discord](https://img.shields.io/badge/Discord-_beloved_381-FF69B4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-
-[![Poland](https://img.shields.io/badge/🇵🇱_Poland-Based-FF1493?style=for-the-badge)](https://github.com/Bobadu)
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=900&lines=building+beautiful+web+experiences+%F0%9F%8C%B8;GSAP+animation+expert+%E2%9C%A8;web+performance+nerd+%F0%9F%9A%80;cat+person+%F0%9F%90%B1%F0%9F%92%96" alt="Typing SVG" />
-
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=900&lines=Building+beautiful+web+experiences+🌸;GSAP+animation+expert+✨;Web+performance+nerd+🚀;Cat+person+🐱💖" alt="Typing SVG" />
+</a>
 
 </div>
 
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      
+<h3>🚀 About Me</h3>
+<p>Building comprehensive web solutions combining modern frontend with performant backend. Specializing in interactive, high-performance applications.</p>
 
-
----
-
-
-
-## 🚀 About Me
-
-
-
-building **comprehensive web solutions** combining modern frontend with performant backend. specializing in **interactive, high-performance applications** with advanced animations and performance optimization.
-
-
-
-```javascript
-
+<pre>
 const bobadu = {
-
   pronouns: "she/her" + " 🐱",
-
   location: "Poland 🇵🇱",
-
-  focus: ["Web Performance", "Interactive UI", "GSAP Animations"],
-
-  currently: "Building fast, beautiful web experiences ✨",
-
-  vibe: "Making web go brrr ⚡",
-
-  loves: ["Cats 🐱", "Pink 💖", "Clean Code 🌸", "Fast Websites 🚀"]
-
+  code: [
+    "Web Performance ⚡",
+    "Interactive UI ✨",
+    "GSAP Animations 🌀"
+  ],
+  challenge: "Making web go brrr",
+  loves: ["Cats 🐱", "Pink 💖", "Clean Code 🌸"]
 };
+</pre>
 
-```
+<h3>🌸 Currently Working On</h3>
+<ul>
+  <li>📜 <b>Portfolio:</b> Interactive showcase (GSAP)</li>
+  <li>💼 <b>Tax System:</b> Accounting solution 📊</li>
+  <li>🤖 <b>AI Assistant:</b> Voice integration 🎙️</li>
+  <li>🎮 <b>FiveM Scripts:</b> Advanced Yoga System 🧘</li>
+</ul>
 
+</td>
+<td width="40%" valign="top" align="center">
 
+<h3>🐱 My Contribution Grid</h3>
+<a href="https://github.com/Bobadu/Bobadu/actions/workflows/snake.yml">
+  <img src="https://raw.githubusercontent.com/Bobadu/Bobadu/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</a>
 
----
+<br/><br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Bobadu&show_icons=true&theme=buefy&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFB6C1&count_private=true" width="100%" />
 
+</td>
+</tr>
+</table>
 
-## 💖 Expertise
-
-
-
-### 🌸 Frontend Magic
-
-- ⚛️ **React.js & Vue.js** - Advanced components and state management
-
-- ✨ **GSAP Animations** - Smooth, professional animations and motion design
-
-- ⚡ **Performance Optimization** - Web Workers, lazy loading, code splitting
-
-- 💅 **Tailwind CSS** - Responsive, modern UI/UX
-
-
-
-### 🚀 Backend Power  
-
-- 🔧 **Node.js** - Scalable APIs and microservices
-
-- 🗄️ **PostgreSQL & MariaDB** - Advanced queries and database optimization
-
-- 🔄 **Real-time Applications** - WebSockets, Server-Sent Events
-
-
-
-### 🎮 Other Cool Stuff
-
-- 🕹️ **Game Development** - FiveM, Minecraft mods
-
-- 🧵 **Concurrent Programming** - Web Workers, Service Workers
-
-- 📦 **Modern Tooling** - Vite, Webpack, Docker
-
-
-
----
-
-
-
-## 🌸 Currently Working On
-
-
-
-- 📜 **Scroll-based Modern Portfolio** - Interactive showcase with advanced GSAP animations ✨
-
-- 💼 **Tax Office Management System** - Comprehensive solution for accounting offices 📊
-
-- 🤖 **AI Phone Assistant** - Smart voice assistant integration 🎙️
-
-- 🧘 **Advanced Yoga System for FiveM** - Immersive gameplay mechanics 🎮
-
-
-
----
-
-
-
-## 💅 Tech Stack
-
-
-
+<h3>💅 Tech Stack & Arsenal</h3>
 <div align="center">
-
-
-
-### Languages & Frameworks
-
-![TypeScript](https://img.shields.io/badge/TypeScript-FF1493?style=for-the-badge&logo=typescript&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
-
-![React](https://img.shields.io/badge/React-FF1493?style=for-the-badge&logo=react&logoColor=white)
-
-![Vue.js](https://img.shields.io/badge/Vue.js-FF69B4?style=for-the-badge&logo=vue.js&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-FF1493?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-
-### Styling & Animation ✨
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind-FF69B4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![GSAP](https://img.shields.io/badge/GSAP-FF1493?style=for-the-badge&logo=greensock&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
-
-
-
-### Databases & Tools 🗄️
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF1493?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![MariaDB](https://img.shields.io/badge/MariaDB-FF69B4?style=for-the-badge&logo=mariadb&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-### Game Dev 🎮
-
-![Lua](https://img.shields.io/badge/Lua-FF69B4?style=for-the-badge&logo=lua&logoColor=white)
-
-![Kotlin](https://img.shields.io/badge/Kotlin-FF1493?style=for-the-badge&logo=kotlin&logoColor=white)
-
-
-
+  <table border="0">
+    <tr>
+      <td align="center" width="120"><b>Frontend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+        <img src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Backend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Tools</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-
-
----
-
-
-
-## 📊 GitHub Stats 🐱
-
-
-
 <div align="center">
+<br/>
 
+<h3>🏆 Trophies & Streaks</h3>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bobadu&theme=buefy&no-frame=true&no-bg=true&margin-w=15&margin-h=15" width="800" />
+</a>
 
-
-![Bobadu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bobadu&show_icons=true&theme=buefy&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFB6C1)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobadu&layout=compact&theme=buefy&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFB6C1)
-
-
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Bobadu&theme=buefy&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1" alt="GitHub Streak" />
 
-
-
-</div>
-
-
-
----
-
-
-
-## 💬 Contact 🌸
-
-
-
-<div align="center">
-
-
-
-[![Discord](https://img.shields.io/badge/Discord-bobadu-FF69B4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-
-[![Email](https://img.shields.io/badge/Email-Contact-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dziewczynafoxi@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Bobadu-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bobadu)
-
-
-
-</div>
-
-
-
----
-
-
-
-<div align="center">
-
-
-
-### 💭 *"First, solve the problem. Then, write the code."* 🐱✨
-
-
-
-**Thanks for visiting! Drop a ⭐ if you like my work!** 💖
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bobadu&color=FF69B4&style=for-the-badge)
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=See%20you%20later!%20🐱💖&fontSize=30&fontColor=FF69B4&animation=twinkling" />
-
-
-
-</div>
-
-
-
----
-
-
-
-<div align="center">
-
-  
-
-**Currently**: 🔨 Building awesome web experiences | ⚡ Optimizing everything | 🎮 Making cool stuff | 💖 Loving cats
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!%20🐱💖&fontSize=25&fontColor=FF69B4&animation=twinkling" width="100%" />
 
 </div>
