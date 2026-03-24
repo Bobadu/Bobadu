@@ -2,9 +2,9 @@
   <defs>
     <style>
       .card { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1; rx: 8; }
-      .big-num { fill: #1f2328; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 900; }
-      .ceo-text { fill: #1f2328; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 900; letter-spacing: 1px; }
-      .label { fill: #656d76; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; }
+      .big-num { fill: #1f2328; font-family: 'Geist', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 900; }
+      .ceo-text { fill: #1f2328; font-family: 'Geist', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 900; letter-spacing: 1px; }
+      .label { fill: #656d76; font-family: 'Geist', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; }
     </style>
   </defs>
 

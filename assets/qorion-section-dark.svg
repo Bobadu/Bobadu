@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="60" viewBox="0 0 420 60">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="55" viewBox="0 0 420 55">
   <defs>
     <style>
-      .company-name { fill: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700; letter-spacing: 3px; dominant-baseline: central; }
-      .company-desc { fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; }
+      .company-name { fill: #e6edf3; font-family: 'Geist', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700; letter-spacing: 3px; }
+      .company-desc { fill: #8b949e; font-family: 'Geist', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; }
     </style>
   </defs>
 
-  <!-- Qorion logo scaled to exactly 20x20, centered in a 20x20 box -->
-  <svg x="155" y="2" width="20" height="20" viewBox="0 0 300 300">
+  <!-- Logo 20x20 box, top at y=1 -->
+  <svg x="156" y="1" width="18" height="18" viewBox="0 0 300 300">
     <g fill="#ffffff" transform="rotate(30,154.64588,144.51057)">
       <path d="M 114.50205,77.604049 72.594019,101.78345 v 61.72492 l 41.908031,24.19542 21.49378,12.40958 v -48.39136 l -21.49378,-12.40958 v -13.33356 l 41.89357,-24.18767 z m 41.90391,24.193351 v 144.47387 l 41.90803,-24.19542 v -96.08302 z"/>
       <path d="m 156.40596,53.406042 v 48.379478 l 41.8977,-24.18974 z"/>
     </g>
   </svg>
 
-  <!-- QORION text, vertically centered with logo (logo center = y=12, text center = y=12) -->
-  <text class="company-name" x="182" y="12" dominant-baseline="central">QORION</text>
+  <!-- Text baseline at y=15, so cap top ~y=4, cap center ~y=10, matching logo center at y=10 -->
+  <text class="company-name" x="180" y="15">QORION</text>
 
-  <text class="company-desc" x="210" y="50" text-anchor="middle">Enterprise SaaS · Management Platforms · Game Development</text>
+  <text class="company-desc" x="210" y="45" text-anchor="middle">Enterprise SaaS · Management Platforms · Game Development</text>
 </svg>
