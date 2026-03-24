@@ -45,14 +45,14 @@
   <img src="assets/qorion-section-dark.svg" width="400" alt="Qorion — Enterprise SaaS · Management Platforms · Game Development" />
 </picture>
 
-<br/><br/>
+<br/>
 
 <!-- CONTACT -->
 <a href="mailto:contact@qorion.net">
   <img src="https://img.shields.io/badge/contact@qorion.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- FOOTER -->
 <picture>
