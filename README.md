@@ -9,17 +9,16 @@
 
 <br/><br/>
 
-# WIKTORIA
+<h1>WIKTORIA</h1>
 
-**Frontend System Engineer · CEO @ Qorion**
+<strong>Frontend System Engineer · CEO @ Qorion</strong>
 
-<br/>
+<br/><br/>
 
-Building enterprise SaaS platforms and management systems.
-<br/>
-8+ years of frontend architecture. React.js Contributor.
+<p>Building enterprise SaaS platforms and management systems.<br/>
+8+ years of frontend architecture. React.js Contributor.</p>
 
----
+<hr/>
 
 <!-- STAT CARDS -->
 <picture>
@@ -30,29 +29,26 @@ Building enterprise SaaS platforms and management systems.
 
 <br/><br/>
 
-<!-- TECH STACK -->
-### Tech Stack
+<h3>Tech Stack</h3>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/React_Three_Fiber-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Three Fiber" />
+  <img src="https://img.shields.io/badge/Web_Workers-FF6600?style=for-the-badge&logo=firefox&logoColor=white" alt="Web Workers" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Web Workers](https://img.shields.io/badge/Web_Workers-FF6600?style=for-the-badge&logo=firefox&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-<br/>
-
----
+<hr/>
 
 <br/>
 
@@ -62,20 +58,20 @@ Building enterprise SaaS platforms and management systems.
   <source media="(prefers-color-scheme: light)" srcset="assets/qorion-logo-dark.svg" />
   <img src="assets/qorion-logo.svg" width="32" alt="Qorion" />
 </picture>
-&nbsp;&nbsp;**QORION**
+&nbsp;&nbsp;<strong>QORION</strong>
 
-Enterprise SaaS · Management Platforms · Game Development
+<p>Enterprise SaaS · Management Platforms · Game Development</p>
 
-<br/>
-
----
+<hr/>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/contact@qorion.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@qorion.net)
+<a href="mailto:contact@qorion.net">
+  <img src="https://img.shields.io/badge/contact@qorion.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<br/>
+<br/><br/>
 
-*"Code is architecture. Architecture is vision."*
+<em>"Code is architecture. Architecture is vision."</em>
 
 </div>
