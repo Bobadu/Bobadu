@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="70" viewBox="0 0 400 70">
+  <defs>
+    <style>
+      .company-name { fill: #1f2328; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700; letter-spacing: 3px; }
+      .company-desc { fill: #656d76; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; }
+    </style>
+  </defs>
+
+  <!-- Qorion Logo -->
+  <g transform="translate(155, -2) scale(0.1)">
+    <g fill="#000000" transform="rotate(30,154.64588,144.51057)">
+      <path d="M 114.50205,77.604049 72.594019,101.78345 v 61.72492 l 41.908031,24.19542 21.49378,12.40958 v -48.39136 l -21.49378,-12.40958 v -13.33356 l 41.89357,-24.18767 z m 41.90391,24.193351 v 144.47387 l 41.90803,-24.19542 v -96.08302 z"/>
+      <path d="m 156.40596,53.406042 v 48.379478 l 41.8977,-24.18974 z"/>
+    </g>
+  </g>
+
+  <text class="company-name" x="218" y="22" text-anchor="middle">QORION</text>
+  <text class="company-desc" x="200" y="52" text-anchor="middle">Enterprise SaaS · Management Platforms · Game Development</text>
+</svg>

@@ -1,36 +1,24 @@
 <div align="center">
 
-<!-- QORION LOGO -->
+<!-- HERO -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/qorion-logo.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/qorion-logo-dark.svg" />
-  <img src="assets/qorion-logo.svg" width="80" alt="Qorion" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+  <img src="assets/hero-dark.svg" width="600" alt="Wiktoria — Frontend System Engineer · CEO @ Qorion" />
 </picture>
 
-<br/><br/>
-
-<h1>WIKTORIA</h1>
-
-<strong>Frontend System Engineer · CEO @ Qorion</strong>
-
-<br/><br/>
-
-<p>Building enterprise SaaS platforms and management systems.<br/>
-8+ years of frontend architecture. React.js Contributor.</p>
-
-<hr/>
+<br/>
 
 <!-- STAT CARDS -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
-  <img src="assets/stats-dark.svg" width="480" alt="Stats" />
+  <img src="assets/stats-dark.svg" width="480" alt="8+ Years · CEO @ Qorion · React.js Contributor · System Designer" />
 </picture>
 
 <br/><br/>
 
-<h3>Tech Stack</h3>
-
+<!-- TECH STACK -->
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -48,30 +36,29 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 </p>
 
-<hr/>
-
 <br/>
 
 <!-- QORION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/qorion-logo.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/qorion-logo-dark.svg" />
-  <img src="assets/qorion-logo.svg" width="32" alt="Qorion" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/qorion-section-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/qorion-section-light.svg" />
+  <img src="assets/qorion-section-dark.svg" width="400" alt="Qorion — Enterprise SaaS · Management Platforms · Game Development" />
 </picture>
-&nbsp;&nbsp;<strong>QORION</strong>
 
-<p>Enterprise SaaS · Management Platforms · Game Development</p>
+<br/><br/>
 
-<hr/>
-
-<br/>
-
+<!-- CONTACT -->
 <a href="mailto:contact@qorion.net">
   <img src="https://img.shields.io/badge/contact@qorion.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
 
-<em>"Code is architecture. Architecture is vision."</em>
+<!-- FOOTER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
+  <img src="assets/footer-dark.svg" width="400" alt="Code is architecture. Architecture is vision." />
+</picture>
 
 </div>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260">
+  <defs>
+    <style>
+      .name { fill: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 36px; font-weight: 900; letter-spacing: 6px; }
+      .title { fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; letter-spacing: 3px; text-transform: uppercase; }
+      .bio { fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; }
+    </style>
+  </defs>
+
+  <!-- Qorion Logo -->
+  <g transform="translate(268, 10) scale(0.22)">
+    <g fill="#ffffff" transform="rotate(30,154.64588,144.51057)">
+      <path d="M 114.50205,77.604049 72.594019,101.78345 v 61.72492 l 41.908031,24.19542 21.49378,12.40958 v -48.39136 l -21.49378,-12.40958 v -13.33356 l 41.89357,-24.18767 z m 41.90391,24.193351 v 144.47387 l 41.90803,-24.19542 v -96.08302 z"/>
+      <path d="m 156.40596,53.406042 v 48.379478 l 41.8977,-24.18974 z"/>
+    </g>
+  </g>
+
+  <!-- Name -->
+  <text class="name" x="300" y="125" text-anchor="middle">WIKTORIA</text>
+
+  <!-- Title -->
+  <text class="title" x="300" y="152" text-anchor="middle">FRONTEND SYSTEM ENGINEER · CEO @ QORION</text>
+
+  <!-- Separator -->
+  <line x1="270" y1="172" x2="330" y2="172" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Bio -->
+  <text class="bio" x="300" y="200" text-anchor="middle">Building enterprise SaaS platforms and management systems.</text>
+  <text class="bio" x="300" y="222" text-anchor="middle">8+ years of frontend architecture. React.js Contributor.</text>
+</svg>
